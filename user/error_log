@@ -1,0 +1,90 @@
+[16-Jan-2023 01:52:59 Asia/Jakarta] PHP Warning:  include(../conncetion.php): failed to open stream: No such file or directory in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 01:52:59 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conncetion.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 01:52:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/digj5839/public_html/course_api_discuss/user/login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digj5839/public_html/course_api_discuss/user/login.php on line 8
+[16-Jan-2023 01:53:46 Asia/Jakarta] PHP Warning:  include(../conncetion.php): failed to open stream: No such file or directory in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 01:53:46 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conncetion.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 01:53:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/digj5839/public_html/course_api_discuss/user/login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digj5839/public_html/course_api_discuss/user/login.php on line 8
+[16-Jan-2023 01:54:01 Asia/Jakarta] PHP Warning:  include(../conncetion.php): failed to open stream: No such file or directory in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 01:54:01 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conncetion.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 01:54:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/digj5839/public_html/course_api_discuss/user/login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digj5839/public_html/course_api_discuss/user/login.php on line 8
+[16-Jan-2023 01:56:29 Asia/Jakarta] PHP Warning:  include(../conncetion.php): failed to open stream: No such file or directory in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 01:56:29 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conncetion.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 01:56:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/digj5839/public_html/course_api_discuss/user/login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digj5839/public_html/course_api_discuss/user/login.php on line 8
+[16-Jan-2023 01:58:02 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'digj5839_bayu'@'localhost' (using password: YES) in /home/digj5839/public_html/course_api_discuss/connection.php on line 6
+[16-Jan-2023 01:58:10 Asia/Jakarta] PHP Warning:  include(../conncetion.php): failed to open stream: No such file or directory in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 01:58:10 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conncetion.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 01:58:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/digj5839/public_html/course_api_discuss/user/login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digj5839/public_html/course_api_discuss/user/login.php on line 8
+[16-Jan-2023 01:58:13 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'digj5839_bayu'@'localhost' (using password: YES) in /home/digj5839/public_html/course_api_discuss/connection.php on line 6
+[16-Jan-2023 01:58:16 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'digj5839_bayu'@'localhost' (using password: YES) in /home/digj5839/public_html/course_api_discuss/connection.php on line 6
+[16-Jan-2023 01:58:19 Asia/Jakarta] PHP Warning:  include(../conncetion.php): failed to open stream: No such file or directory in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 01:58:19 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conncetion.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 01:58:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/digj5839/public_html/course_api_discuss/user/login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digj5839/public_html/course_api_discuss/user/login.php on line 8
+[16-Jan-2023 01:58:25 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'digj5839_bayu'@'localhost' (using password: YES) in /home/digj5839/public_html/course_api_discuss/connection.php on line 6
+[16-Jan-2023 02:00:12 Asia/Jakarta] PHP Warning:  include(../conncetion.php): failed to open stream: No such file or directory in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:00:12 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conncetion.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:00:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/digj5839/public_html/course_api_discuss/user/login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digj5839/public_html/course_api_discuss/user/login.php on line 8
+[16-Jan-2023 02:00:20 Asia/Jakarta] PHP Warning:  unlink(../image/user/): Is a directory in /home/digj5839/public_html/course_api_discuss/user/update_image.php on line 15
+[16-Jan-2023 02:00:20 Asia/Jakarta] PHP Warning:  file_put_contents(../image/user/): failed to open stream: Is a directory in /home/digj5839/public_html/course_api_discuss/user/update_image.php on line 17
+[16-Jan-2023 02:00:29 Asia/Jakarta] PHP Warning:  include(../conncetion.php): failed to open stream: No such file or directory in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:00:29 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conncetion.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:00:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/digj5839/public_html/course_api_discuss/user/login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digj5839/public_html/course_api_discuss/user/login.php on line 8
+[16-Jan-2023 02:00:37 Asia/Jakarta] PHP Warning:  include(../conncetion.php): failed to open stream: No such file or directory in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:00:37 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conncetion.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:00:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/digj5839/public_html/course_api_discuss/user/login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digj5839/public_html/course_api_discuss/user/login.php on line 8
+[16-Jan-2023 02:01:57 Asia/Jakarta] PHP Warning:  include(../conncetion.php): failed to open stream: No such file or directory in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:01:57 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conncetion.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:01:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/digj5839/public_html/course_api_discuss/user/login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digj5839/public_html/course_api_discuss/user/login.php on line 8
+[16-Jan-2023 02:02:06 Asia/Jakarta] PHP Warning:  include(../conncetion.php): failed to open stream: No such file or directory in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:02:06 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conncetion.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:02:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/digj5839/public_html/course_api_discuss/user/login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digj5839/public_html/course_api_discuss/user/login.php on line 8
+[16-Jan-2023 02:02:13 Asia/Jakarta] PHP Warning:  include(../conncetion.php): failed to open stream: No such file or directory in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:02:13 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conncetion.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:02:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/digj5839/public_html/course_api_discuss/user/login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digj5839/public_html/course_api_discuss/user/login.php on line 8
+[16-Jan-2023 02:05:47 Asia/Jakarta] PHP Warning:  include(../conncetion.php): failed to open stream: No such file or directory in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:05:47 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conncetion.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:05:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/digj5839/public_html/course_api_discuss/user/login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digj5839/public_html/course_api_discuss/user/login.php on line 8
+[16-Jan-2023 02:07:48 Asia/Jakarta] PHP Warning:  include(../conncetion.php): failed to open stream: No such file or directory in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:07:48 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conncetion.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digj5839/public_html/course_api_discuss/user/login.php on line 2
+[16-Jan-2023 02:07:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/digj5839/public_html/course_api_discuss/user/login.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digj5839/public_html/course_api_discuss/user/login.php on line 8
